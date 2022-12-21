@@ -1,6 +1,6 @@
 package com.springjwt.demo.service;
 
-import com.springjwt.demo.model.User;
+import com.springjwt.demo.entity.User;
 
 /**
  * @author Kayhan Öztürk

@@ -1,6 +1,6 @@
 package com.springjwt.demo.service.impl;
 
-import com.springjwt.demo.model.User;
+import com.springjwt.demo.entity.User;
 import com.springjwt.demo.repository.UserRepository;
 import com.springjwt.demo.service.UserService;
 import com.springjwt.demo.exception.UserNotFoundException;

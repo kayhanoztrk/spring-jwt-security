@@ -1,4 +1,4 @@
-package com.springjwt.demo.model;
+package com.springjwt.demo.entity;
 
 import lombok.Data;
 

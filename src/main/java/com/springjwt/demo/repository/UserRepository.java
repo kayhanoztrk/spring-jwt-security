@@ -1,6 +1,6 @@
 package com.springjwt.demo.repository;
 
-import com.springjwt.demo.model.User;
+import com.springjwt.demo.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

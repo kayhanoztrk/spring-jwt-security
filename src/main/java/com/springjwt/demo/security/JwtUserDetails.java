@@ -1,6 +1,6 @@
 package com.springjwt.demo.security;
 
-import com.springjwt.demo.model.User;
+import com.springjwt.demo.entity.User;
 import lombok.Data;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

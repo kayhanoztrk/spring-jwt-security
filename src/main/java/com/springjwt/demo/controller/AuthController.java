@@ -1,6 +1,6 @@
 package com.springjwt.demo.controller;
 
-import com.springjwt.demo.model.User;
+import com.springjwt.demo.entity.User;
 import com.springjwt.demo.model.request.UserRequest;
 import com.springjwt.demo.security.JwtTokenProvider;
 import com.springjwt.demo.service.UserService;
